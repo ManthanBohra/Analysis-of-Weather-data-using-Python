@@ -5,7 +5,4 @@ This project involves the analysis of weather data using Python. The aim is to e
 Technologies Used <br>
 Python 3.x<br>
 Pandas<br>
-NumPy<br>
-Matplotlib<br>
-Seaborn<br>
 Jupyter Notebook
